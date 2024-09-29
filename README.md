@@ -1,22 +1,18 @@
-# Exercise-02d-Scenes-And-Menus
+# Project 2 - 2D Arcade Space Shooter
+# Completed 28 September 2024
+Description
+## Implementation 
 
-Exercise for MSCH-C220
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
-
-## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
+1. Added background music
+2. Added new Enemy, Ship, and "Asteroid" assets
+3. Added a second enemy that moves and shoots bullets at a faster pace
+4. Added an "end" scene that says, "YOU HAVE BEEN SLAIN"
+5. Added a background image
 
 ## References
-None
 
 ## Future Development
-None
 
 ## Created by
-Lauren Cole
+
+Lauren Cole (Github: colelau)
