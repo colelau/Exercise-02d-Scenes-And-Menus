@@ -1,6 +1,8 @@
 # Project 2 - 2D Arcade Space Shooter
 # Completed 28 September 2024
-Description
+
+The goal is to defeat the evil eye "asteroids" and enemy spaceships. 
+
 ## Implementation 
 
 1. Added background music
